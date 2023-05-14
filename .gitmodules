@@ -1,0 +1,3 @@
+[submodule "keyboards/zmk-corne"]
+	path = keyboards/zmk-corne
+	url = git@github.com:ogoes/zmk-corne.git
